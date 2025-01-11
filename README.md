@@ -1,5 +1,6 @@
-<h1 align=center>Internship-Tracker</h1>
-This is an internship application tracker spreadsheet. Can also be used as a job application tracker. 
-Download from above.
+<h1 align=center>Internship Tracker Template</h1>
+
+This is an internship or job application tracker spreadsheet. 
+Download [here](https://docs.google.com/spreadsheets/d/1hfPwMeUdnm7UU5HmOCP22E_QESm5Hdjt/).
 
 ![Screenshot Capture - 2025-01-11 - 02-32-03](https://github.com/user-attachments/assets/beeb3445-3dc6-4d9c-bfd3-cd21037b4003)
